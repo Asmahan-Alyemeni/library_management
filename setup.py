@@ -8,7 +8,6 @@ from asmahan import __version__ as version
 
 setup(
 	name="asmahan",
-	version=version,
 	description="4trhu",
 	author="Asmahan",
 	author_email="Asmahan@gmail.com",
